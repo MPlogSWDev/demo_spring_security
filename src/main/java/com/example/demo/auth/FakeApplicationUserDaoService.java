@@ -1,7 +1,6 @@
 package com.example.demo.auth;
 
 
-import com.example.demo.stedent.Student;
 import org.assertj.core.util.Lists;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
